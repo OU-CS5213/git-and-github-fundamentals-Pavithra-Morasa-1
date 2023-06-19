@@ -16,3 +16,8 @@ The journal sends the scientist reviews written anonymously by a handful of othe
 More time passes.
 
 The paper is eventually published. It might include a link to an online copy of the data, but the paper itself will be behind a paywall: only people who have personal or institutional access will be able to read it.
+
+
+## Keyword:
+
+Open scientific work is more useful and more highly cited than closed.
