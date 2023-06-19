@@ -21,3 +21,5 @@ The paper is eventually published. It might include a link to an online copy of 
 ## Keyword:
 
 Open scientific work is more useful and more highly cited than closed.
+
+A version control system is a tool that keeps track of these changes for us, effectively creating different versions of our files. It allows us to decide which changes will be made to the next version (each record of these changes is called a commit), and keeps useful metadata about them. The complete history of commits for a particular project and their metadata make up a repository. Repositories can be kept in sync across different computers, facilitating collaboration among different people.
